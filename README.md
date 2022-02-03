@@ -1,2 +1,2 @@
-# Repositorio_prueba_git
+# ClassStuff
 Repositorio para las cosas de clase
